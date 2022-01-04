@@ -1,2 +1,1 @@
-# RepairGui-Wiki
-Wiki about RepairGui
+[Wiki](https://github.com/LegameMc/RepairGui-Wiki/wiki)
